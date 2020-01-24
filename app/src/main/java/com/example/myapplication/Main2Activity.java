@@ -28,7 +28,7 @@ public class Main2Activity extends AppCompatActivity {
 
         handlers = new MyClickHandlers(this);
         binding.setHandlers(handlers);
-
+        //2nd Comment
         /*Receiver1 receiver=new Receiver1();
         IntentFilter intentFilter=new IntentFilter();
         intentFilter.addAction("send");
